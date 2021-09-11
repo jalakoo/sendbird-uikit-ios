@@ -9,11 +9,12 @@
 ## Table of contents
 
   1. [Introduction](#introduction)
-  1. [Before getting started](#before-getting-started)
+  1. [Requirements](#requirements)
   1. [Getting started](#getting-started)
   1. [Implementation guide](#implementation-guide) 
   1. [UIKit at a glance](#uikit-at-a-glance)  
-  
+  1. [Getting help](#getting-help)
+  1. [Hiring](#we-are-hiring)
 <br />
 
 ## Introduction
@@ -41,11 +42,8 @@ Find out more about Sendbird UIKit for iOS on [UIKit for iOS doc](https://sendbi
 
 <br />
 
-## Before getting started
 
-This section shows the prerequisites you need to check to use Sendbird UIKit for iOS.
-
-### Requirements
+## Requirements
 
 The minimum requirements for Sendbird UIKit for iOS are:
 
@@ -404,3 +402,13 @@ UIKit for iOS manages the lifecycle of its `ViewController` along with various v
 |SBUFontSet|A singleton that manages font sets.|
 |SBUMain|A class that contains static functions required when using Sendbird UIKit.|
 |SBUGlobalSet|A class that contains static attributes required when using Sendbird UIKit.|
+
+<br/>
+
+## Getting Help
+Check out the Official Sendbird [iOS UIKit docs](https://sendbird.com/docs/uikit/v1/ios/quickstart/send-first-message?&utm_source=github&utm_medium=referral&utm_campaign=repo&utm_content=sendbird-uikit-ios-sdk) and Sendbird's [Developer Portal](https://sendbird.com/developer?&utm_source=github&utm_medium=referral&utm_campaign=repo&utm_content=sendbird-uikit-ios-sdk) for tutorials and videos. If you need any help in resolving any issues or have questions, visit our [community forums](https://community.sendbird.com?&utm_source=github&utm_medium=referral&utm_campaign=repo&utm_content=sendbird-uikit-ios-sdk).
+
+<br />
+
+## We are Hiring!
+Sendbird is made up of a diverse group of humble, friendly, and hardworking individuals united by a shared purpose to build the next generation of mobile & social technologies. Join our team remotely or at one of our locations in San Mateo, Seoul, New York, London, and Singapore. More information on a [careers page](https://sendbird.com/careers?&utm_source=github&utm_medium=referral&utm_campaign=repo&utm_content=sendbird-uikit-ios-sdk).
