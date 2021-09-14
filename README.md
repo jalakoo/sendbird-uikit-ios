@@ -1,4 +1,4 @@
-# [Sendbird](https://sendbird.com) UIKit for iOS
+# [Sendbird](https://sendbird.com?&utm_source=github&utm_medium=referral&utm_campaign=repo&utm_content=sendbird-uikit-ios-sdk) UIKit for iOS
 
 [![Platform](https://img.shields.io/badge/platform-iOS-orange.svg)](https://cocoapods.org/pods/SendBirdUIKit)
 [![Languages](https://img.shields.io/badge/language-Objective--C%20%7C%20Swift-orange.svg)](https://github.com/sendbird/sendbird-uikit-ios)
@@ -9,18 +9,19 @@
 ## Table of contents
 
   1. [Introduction](#introduction)
-  1. [Before getting started](#before-getting-started)
+  1. [Requirements](#requirements)
   1. [Getting started](#getting-started)
   1. [Implementation guide](#implementation-guide) 
   1. [UIKit at a glance](#uikit-at-a-glance)  
-  
+  1. [Getting help](#getting-help)
+  1. [Hiring](#we-are-hiring)
 <br />
 
 ## Introduction
 
 **Sendbird UIKit** for iOS is a development kit with an user interface that enables an easy and fast integration of standard chat features into new or existing client apps. From the overall theme to individual styles such as colors and fonts, components can be fully customized to create an in-app chat experience unique to your brand identity.
 
-> **Note**: Currently, UIKit for iOS now supports both group channels and open channels.
+> **Note**: Currently, UIKit for iOS now supports both [group channels](https://sendbird.com/docs/chat/v3/ios/guides/group-channel?&utm_source=github&utm_medium=referral&utm_campaign=repo&utm_content=sendbird-uikit-ios-sdk) and [open channels](https://sendbird.com/docs/chat/v3/ios/guides/open-channel?&utm_source=github&utm_medium=referral&utm_campaign=repo&utm_content=sendbird-uikit-ios-sdk).
 
 ![ThemeLight](https://static.sendbird.com/docs/uikit/ios/theme-light_20200416.png)
 
@@ -37,15 +38,12 @@ This repository houses the UIKit source code and UIKit sample in addition to a U
 
 ### More about Sendbird UIKit for iOS
 
-Find out more about Sendbird UIKit for iOS on [UIKit for iOS doc](https://sendbird.com/docs/uikit/v1/ios/getting-started/about-uikit). If you have any comments or questions regarding bugs and feature requests, visit [Sendbird community](https://community.sendbird.com). 
+Find out more about Sendbird UIKit for iOS on [UIKit for iOS doc](https://sendbird.com/docs/uikit/v1/ios/getting-started/about-uikit?&utm_source=github&utm_medium=referral&utm_campaign=repo&utm_content=sendbird-uikit-ios-sdk). If you have any comments or questions regarding bugs and feature requests, visit [Sendbird community](https://community.sendbird.com?&utm_source=github&utm_medium=referral&utm_campaign=repo&utm_content=sendbird-uikit-ios-sdk). 
 
 <br />
 
-## Before getting started
 
-This section shows the prerequisites you need to check to use Sendbird UIKit for iOS.
-
-### Requirements
+## Requirements
 
 The minimum requirements for Sendbird UIKit for iOS are:
 
@@ -289,7 +287,7 @@ func application(_ application: UIApplication, didFinishLaunchingWithOptions lau
 
 ### Channel list
 
-UIKit allows you to create a channel specifically for 1-on-1 chat and to list 1-on-1 chat channels so that you can easily view and manage them. With the `SBUChannelListViewController` class, you can provide end users a complete chat service featuring a [channel list](https://sendbird.com/docs/uikit/v1/ios/guides/key-functions#2-list-channels). 
+UIKit allows you to create a channel specifically for 1-on-1 chat and to list 1-on-1 chat channels so that you can easily view and manage them. With the `SBUChannelListViewController` class, you can provide end users a complete chat service featuring a [channel list](https://sendbird.com/docs/uikit/v1/ios/guides/key-functions#2-list-channels?&utm_source=github&utm_medium=referral&utm_campaign=repo&utm_content=sendbird-uikit-ios-sdk). 
 
 Implement the code below wherever you want to start UIKit.
 
@@ -404,3 +402,13 @@ UIKit for iOS manages the lifecycle of its `ViewController` along with various v
 |SBUFontSet|A singleton that manages font sets.|
 |SBUMain|A class that contains static functions required when using Sendbird UIKit.|
 |SBUGlobalSet|A class that contains static attributes required when using Sendbird UIKit.|
+
+<br/>
+
+## Getting Help
+Check out the Official Sendbird [iOS UIKit docs](https://sendbird.com/docs/uikit/v1/ios/quickstart/send-first-message?&utm_source=github&utm_medium=referral&utm_campaign=repo&utm_content=sendbird-uikit-ios-sdk) and Sendbird's [Developer Portal](https://sendbird.com/developer?&utm_source=github&utm_medium=referral&utm_campaign=repo&utm_content=sendbird-uikit-ios-sdk) for tutorials and videos. If you need any help in resolving any issues or have questions, visit our [community forums](https://community.sendbird.com?&utm_source=github&utm_medium=referral&utm_campaign=repo&utm_content=sendbird-uikit-ios-sdk).
+
+<br />
+
+## We are Hiring!
+Sendbird is made up of a diverse group of humble, friendly, and hardworking individuals united by a shared purpose to build the next generation of mobile & social technologies. Join our team remotely or at one of our locations in San Mateo, Seoul, New York, London, and Singapore. More information on a [careers page](https://sendbird.com/careers?&utm_source=github&utm_medium=referral&utm_campaign=repo&utm_content=sendbird-uikit-ios-sdk).
