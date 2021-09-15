@@ -19,14 +19,14 @@
 
 ## Introduction
 
-[**Sendbird UIKit**](https://sendbird.com/docs/uikit/v1/ios/getting-started/about-uikit?&utm_source=github&utm_medium=referral&utm_campaign=repo&utm_content=sendbird-uikit-ios-sdk) for iOS is a development kit with an user interface that enables an easy and fast integration of standard chat features into new or existing client apps. From the overall theme to individual styles such as colors and fonts, components can be fully customized to create an in-app chat experience unique to your brand identity.
+[**Sendbird UIKit**](https://sendbird.com/docs/uikit/v1/ios/getting-started/about-uikit?&utm_source=github&utm_medium=referral&utm_campaign=repo&utm_content=sendbird-uikit-ios-sdk) for iOS is a development kit with a user interface that enables an easy and fast integration of standard chat features into new or existing client apps. From the overall theme to individual styles such as colors and fonts, components can be fully customized to create an in-app chat experience unique to your brand identity.
 
 > **Note**: Currently, UIKit for iOS now supports both [group channels](https://sendbird.com/docs/chat/v3/ios/guides/group-channel?&utm_source=github&utm_medium=referral&utm_campaign=repo&utm_content=sendbird-uikit-ios-sdk) and [open channels](https://sendbird.com/docs/chat/v3/ios/guides/open-channel?&utm_source=github&utm_medium=referral&utm_campaign=repo&utm_content=sendbird-uikit-ios-sdk).
 
 ![ThemeLight](https://static.sendbird.com/docs/uikit/ios/theme-light_20200416.png)
 
 This repository houses the UIKit source code and UIKit sample in addition to a UIKit Framework.
-- **Sources** is where you can find the open source code. Check out [UIKit Open Source Guidelines](https://github.com/sendbird/sendbird-uikit-ios/blob/master/OPENSOURCE_GUIDELINES.md) for more information regarding our stance on open source.
+- **Sources** is where you can find the source code. Check out the [UIKit Open Source Guidelines](https://github.com/sendbird/sendbird-uikit-ios/blob/master/OPENSOURCE_GUIDELINES.md) for more information.
 - **Sample** is a chat app which contains custom sample code for various key features written in `Swift`. 
 
 ### Benefits
